@@ -21,7 +21,7 @@
 
 **📫 How to reach me:**
 
-[![Email Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@michaelgudzevskyi/)](https://medium.com/@michaelgudzevskyi/)
+[![Discord](https://img.shields.io/discord/469901051336851456.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
 <br />
 
 
