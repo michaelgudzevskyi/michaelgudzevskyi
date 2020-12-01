@@ -19,7 +19,13 @@
 - 😄 Pronouns: ...
 
 
-**Languages and Tools:**
+**📫 How to reach me:**
+
+[![Email Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@michaelgudzevskyi/)](https://medium.com/@michaelgudzevskyi/)
+<br />
+
+
+**🔭 Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
