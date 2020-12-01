@@ -3,6 +3,7 @@
 ### Hello 👋, my name is Mykhailo (michaelgudzevskyi). I am a Front End Developer / Designer. 
 
 **📫 How to reach me:**
+<br />
 [![Portfolio Badge](https://img.shields.io/badge/Website-michaelgudzevskyi.com-black)](https://michaelgudzevskyi.com)
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/MBP4bDw9)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelgudzevskyi/)](https://www.linkedin.com/in/michaelgudzevskyi/) 
