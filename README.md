@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 [![Portfolio Badge](https://img.shields.io/badge/Website-michaelgudzevskyi.com-black)](https://michaelgudzevskyi.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mykhailo-hudzevatyi-42890a119/)](https://www.linkedin.com/in/mykhailo-hudzevatyi-42890a119/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelgudzevskyi/)](https://www.linkedin.com/in/michaelgudzevskyi/) 
 
  
 
@@ -16,7 +16,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-<p><a href="https://michaelgudzevskyi.com">🌐 Check out my website</a></p>
 
 **Languages and Tools:**
 
