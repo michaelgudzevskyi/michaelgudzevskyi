@@ -13,6 +13,10 @@
  
 <br />
 
+I am passionate about high quality, customer-focussed Frontend development, and love working on new and innovative applications in a digital environment. I aim to make all sites and web apps not just accessible in order to meet legislative requirements, but actually 'usable' in practical terms.
+
+I particularly love 're-inventing the wheel' - not being stuck on what has already been done before but trying to find new, creative, and better ways to do things. After all, if humanity through the ages never re-invented the wheel all we'd have today is pottery. 
+
 
 **🔭 Languages and Tools:**
 
