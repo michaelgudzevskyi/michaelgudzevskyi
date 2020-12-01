@@ -21,7 +21,7 @@
 
 **📫 How to reach me:**
 
-[![Discord](https://img.shields.io/discord/469901051336851456.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/vpEv3HJ)
+[![Discord](https://img.shields.io/discord/469901051336851456.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/MBP4bDw9)
 <br />
 
 
