@@ -1,6 +1,6 @@
 ![Imgur Image](https://github.com/michaelgudzevskyi/michaelgudzevskyi/blob/main/Group%205.png)
 
-### Hello 👋, my name is Mykhailo (michaelgudzevskyi). I am a Front End Developer & UI/UX Designer. 
+### Hello 👋, my name is Mykhailo (michaelgudzevskyi). I am a Front-End Developer & UI/UX Designer. 
 
 [![Portfolio Badge](https://img.shields.io/badge/Website-michaelgudzevskyi.com-black)](https://michaelgudzevskyi.com)
 [![Awwwards Badge](https://img.shields.io/badge/-Awwwards-black)](https://www.awwwards.com/michaelgudzevskyi/favorites)
