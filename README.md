@@ -31,4 +31,4 @@ I particularly love 're-inventing the wheel' - not being stuck on what has alrea
 
 
  ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=michaelgudzevskyi&show_icons=true&bg_color=ffffff&title_color=161616&text_color=161616)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgudzevskyi&layout=compact&show_icons=true&bg_color=ffffff&title_color=161616&icon_color=28782a&text_color=161616)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgudzevskyi&layout=compact&show_icons=true&bg_color=ffffff&title_color=161616&icon_color=161616a&text_color=161616)](https://github.com/anuraghazra/github-readme-stats)
