@@ -4,6 +4,8 @@
 
 [![Portfolio Badge](https://img.shields.io/badge/Website-michaelgudzevskyi.com-black)](https://michaelgudzevskyi.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelgudzevskyi/)](https://www.linkedin.com/in/michaelgudzevskyi/) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@michaelgudzevskyi/)](https://medium.com/@michaelgudzevskyi/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/story/michaelgudzevskyi?tab=profile)](https://stackoverflow.com/story/michaelgudzevskyi?tab=profile)
 
  
 
