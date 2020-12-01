@@ -1,6 +1,6 @@
  
 
-### Hi there 👋
+### Hello 👋, my name is Mykhailo. I am a Front End Developer / Designer. 
 
 [![Portfolio Badge](https://img.shields.io/badge/Website-michaelgudzevskyi.com-black)](https://michaelgudzevskyi.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelgudzevskyi/)](https://www.linkedin.com/in/michaelgudzevskyi/) 
