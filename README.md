@@ -7,8 +7,10 @@
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/MBP4bDw9)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaelgudzevskyi/)](https://www.linkedin.com/in/michaelgudzevskyi/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://medium.com/@michaelgudzevskyi/)](https://medium.com/@michaelgudzevskyi/)
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-292929?style=flat-square&labelColor=292929&logo=Medium&link=https://codepen.io/michaelgudzevskyi/)](https://codepen.io/michaelgudzevskyi/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/story/michaelgudzevskyi?tab=profile)](https://stackoverflow.com/story/michaelgudzevskyi?tab=profile)
  
+
 
 I am passionate about high quality, customer-focussed Frontend development, and love working on new and innovative applications in a digital environment. I aim to make all sites and web apps not just accessible in order to meet legislative requirements, but actually 'usable' in practical terms.
 
