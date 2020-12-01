@@ -1,4 +1,4 @@
- 
+![Imgur Image](https://github.com/michaelgudzevskyi/michaelgudzevskyi/blob/main/Group%205.png)
 
 ### Hello 👋, my name is Mykhailo (michaelgudzevskyi). I am a Front End Developer / Designer. 
 
