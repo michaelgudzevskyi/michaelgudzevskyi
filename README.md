@@ -32,6 +32,3 @@ I particularly love 're-inventing the wheel' - not being stuck on what has alrea
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgudzevskyi&layout=compact&show_icons=true&bg_color=ffffff&icon_color=161616&text_color=161616)](https://github.com/anuraghazra/github-readme-stats)
