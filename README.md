@@ -1,4 +1,4 @@
-![Imgur Image](https://github.com/michaelgudzevskyi/michaelgudzevskyi/blob/main/Group 7.png)
+![Imgur Image](https://github.com/michaelgudzevskyi/michaelgudzevskyi/blob/main/Group.png)
 
 ### Hello 👋, my name is Mykhailo (michaelgudzevskyi). I am a Front-End Developer & UI/UX Designer. 
 
