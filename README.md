@@ -10,9 +10,8 @@
  
 
 
-I am passionate about high quality, customer-focussed Frontend development, and love working on new and innovative applications in a digital environment. I aim to make all sites and web apps not just accessible in order to meet legislative requirements, but actually 'usable' in practical terms.
-
-I particularly love 're-inventing the wheel' - not being stuck on what has already been done before but trying to find new, creative, and better ways to do things. After all, if humanity through the ages never re-invented the wheel all we'd have today is pottery. 
+A dynamic, results-oriented professional working at the intersection of creative problem solving, class-leading front-end development and innovation to deliver cutting-edge, user-focused websites and applications. 
+A notable capacity for partnering with cross-functional stakeholders to drive projects from concept to execution is underpinned by an aptitude for optimising the front-end development bench. Keen communication and interpersonal skills facilitate strong collaborative relationships, and engender a technical environment that is conducive to motivation, target-attainment and continuous improvement. 
 
 
 **🔭 Languages and Tools:**
