@@ -1,4 +1,5 @@
-![Imgur Image](https://github.com/michaelgudzevskyi/michaelgudzevskyi/blob/main/Group1.png)
+ 
+![1722713069770](https://github.com/user-attachments/assets/6bfb5759-613e-40e3-93be-66e621a2d09e)
 
 ### Hello 👋, my name is Mykhailo (michaelgudzevskyi). I am a Front-End Focused Software Engineer. 
 
