@@ -10,8 +10,13 @@
  
 
 
-A dynamic, results-oriented professional working at the intersection of creative problem solving, class-leading front-end development and innovation to deliver cutting-edge, user-focused websites and applications. 
-A notable capacity for partnering with cross-functional stakeholders to drive projects from concept to execution is underpinned by an aptitude for optimising the front-end development bench. Keen communication and interpersonal skills facilitate strong collaborative relationships, and engender a technical environment that is conducive to motivation, target-attainment and continuous improvement. 
+Hi, I’m Mykhailo Hudzevatyi! With over a decade of experience in software development, I’ve had the chance to work on exciting projects worldwide. I specialize in modern libraries and frameworks like Next.js, React, Vue, and Angular, crafting engaging and user-friendly web applications.
+
+I’m passionate about UI/UX and dedicated to writing clean, efficient, and accessible code. My expertise in JavaScript and these cutting-edge tools helps me embrace new challenges and keep growing in this ever-evolving field.
+
+As a jury member at Awwwards, I stay on top of the latest design and development trends. I love working with teams, mentoring junior developers, and coming up with innovative solutions to complex problems. 
+
+Feel free to reach out or just connect; let's create something amazing together!
 
 
 **🔭 Languages and Tools:**
